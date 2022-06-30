@@ -1,0 +1,4 @@
+﻿<?xml version="1&#46;0" encoding="UTF-8"?>
+<player showDisplay="yes" showPlaylist="no" autoStart="random">
+<song path="/SM.mp3" title="" />
+</player>
